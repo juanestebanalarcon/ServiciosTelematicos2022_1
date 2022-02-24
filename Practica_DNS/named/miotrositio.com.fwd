@@ -1,0 +1,15 @@
+$ORIGIN miotrositio.com.
+$TTL 3H
+@	IN SOA  server.miotrositio.com. root@miotrositio.com. (
+					0	; serial
+					1D	; refresh
+					1H	; retry
+					1W	; expire
+					3H )	; minimum
+@       IN 	NS	server.miotrositio.com.
+
+;Host en la zona.
+
+server  IN        A       192.168.50.3
+www     IN        CNAME   server
+cliente IN       A       192.168.50.2

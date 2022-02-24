@@ -1,0 +1,2808 @@
+managed-keys-zone: loaded serial 0
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:1::53#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:dc3::35#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:48::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:c::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:e::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:f::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:b::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:40::1#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2001:500:1::53#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2610:a1:1011::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2001:dcd:1::14#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2610:a1:1012::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2610:a1:1010::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2001:dcd:3::14#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2001:dcd:2::14#53
+network unreachable resolving 'edu.co/DS/IN': 2001:dcd:1::14#53
+network unreachable resolving 'edu.co/DS/IN': 2001:dcd:2::14#53
+network unreachable resolving 'mirrors.fedoraproject.org/AAAA/IN': 2610:28:3090:3001:dead:beef:cafe:fed5#53
+network unreachable resolving 'mirrors.fedoraproject.org/A/IN': 2610:28:3090:3001:dead:beef:cafe:fed5#53
+network unreachable resolving 'mirrors.fedoraproject.org/AAAA/IN': 2001:4178:2:1269:dead:beef:cafe:fed5#53
+network unreachable resolving 'mirrors.fedoraproject.org/A/IN': 2001:4178:2:1269:dead:beef:cafe:fed5#53
+network unreachable resolving 'mirror.uepg.br/AAAA/IN': 2001:12f8:4::10#53
+network unreachable resolving 'mirror.uepg.br/AAAA/IN': 2001:12f8:2::10#53
+network unreachable resolving 'mirror.uepg.br/AAAA/IN': 2001:12f8:8::10#53
+network unreachable resolving 'mirror.uepg.br/AAAA/IN': 2001:12f8:6::10#53
+network unreachable resolving 'mirror.uepg.br/AAAA/IN': 2001:12f8:c::10#53
+network unreachable resolving 'mirror.uepg.br/AAAA/IN': 2001:12f8:a::10#53
+network unreachable resolving 'mirror.uepg.br/A/IN': 2001:12f8:4::10#53
+network unreachable resolving 'mirror.uepg.br/A/IN': 2001:12f8:c::10#53
+network unreachable resolving 'mirror.uepg.br/AAAA/IN': 2804:1f04:30::22#53
+network unreachable resolving 'mirror.uepg.br/AAAA/IN': 2804:1f04:20::22#53
+network unreachable resolving 'cpdc0055.uepg.br/A/IN': 2804:1f04:30::22#53
+network unreachable resolving 'cpdc0055.uepg.br/AAAA/IN': 2804:1f04:30::22#53
+network unreachable resolving 'cpdc0055.uepg.br/A/IN': 2804:1f04:20::22#53
+network unreachable resolving 'cpdc0055.uepg.br/AAAA/IN': 2804:1f04:20::22#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2001:500:856e::30#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2001:502:8cc::30#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'kate.ns.cloudflare.com/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'kate.ns.cloudflare.com/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'ernest.ns.cloudflare.com/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'ernest.ns.cloudflare.com/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'kate.ns.cloudflare.com/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'kate.ns.cloudflare.com/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'ernest.ns.cloudflare.com/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'kate.ns.cloudflare.com/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'kate.ns.cloudflare.com/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'kate.ns.cloudflare.com/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'kate.ns.cloudflare.com/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:7e2#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:209#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:30b#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:606#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:837#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:21#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:937#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:506#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:408#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:121#53
+network unreachable resolving 'www.uao.edu.co/A/IN': 2a06:98c1:50::ac40:21a4#53
+network unreachable resolving 'www.uao.edu.co/A/IN': 2803:f800:50::6ca2:c1a4#53
+network unreachable resolving 'www.uao.edu.co/A/IN': 2606:4700:58::adf5:3ba4#53
+network unreachable resolving 'kate.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:408#53
+network unreachable resolving 'www.uao.edu.co/AAAA/IN': 2606:4700:50::adf5:3a7c#53
+network unreachable resolving 'www.uao.edu.co/AAAA/IN': 2803:f800:50::6ca2:c1a4#53
+network unreachable resolving 'www.uao.edu.co/AAAA/IN': 2803:f800:50::6ca2:c07c#53
+network unreachable resolving 'www.uao.edu.co/MX/IN': 2a06:98c1:50::ac40:207c#53
+network unreachable resolving 'www.uao.edu.co/A/IN': 2606:4700:50::adf5:3a7c#53
+network unreachable resolving 'edu.co/DS/IN': 2610:a1:1012::21#53
+network unreachable resolving 'edu.co/DS/IN': 2001:dcd:1::14#53
+network unreachable resolving 'centos.org/DS/IN': 2001:500:40::1#53
+network unreachable resolving 'centos.org/DS/IN': 2001:500:b::1#53
+network unreachable resolving 'centos.org/DS/IN': 2001:500:f::1#53
+network unreachable resolving 'centos.org/DS/IN': 2001:500:c::1#53
+network unreachable resolving 'centos.org/DS/IN': 2001:500:e::1#53
+network unreachable resolving 'centos.org/DS/IN': 2001:500:48::1#53
+network unreachable resolving 'org/DNSKEY/IN': 2001:500:e::1#53
+network unreachable resolving 'org/DNSKEY/IN': 2001:500:40::1#53
+network unreachable resolving 'whois.verisign-grs.com/A/IN': 2001:500:125::30#53
+network unreachable resolving 'whois.verisign-grs.com/AAAA/IN': 2001:500:125::30#53
+network unreachable resolving 'whois.verisign-grs.com/A/IN': 2001:500:126::30#53
+network unreachable resolving 'whois.verisign-grs.com/AAAA/IN': 2001:500:126::30#53
+network unreachable resolving 'whois.verisign-grs.com/A/IN': 2001:500:127::30#53
+network unreachable resolving 'whois.verisign-grs.com/AAAA/IN': 2001:500:127::30#53
+network unreachable resolving 'whois.verisign-grs.com/A/IN': 2001:500:124::30#53
+network unreachable resolving 'whois.verisign-grs.com/AAAA/IN': 2001:500:124::30#53
+network unreachable resolving 'verisign-grs.com/DNSKEY/IN': 2001:500:127::30#53
+network unreachable resolving 'whois.markmonitor.com/A/IN': 2001:67c:1bc::3#53
+network unreachable resolving 'whois.markmonitor.com/A/IN': 2001:67c:1bc::4#53
+network unreachable resolving 'whois.markmonitor.com/A/IN': 2001:67c:10b8::3#53
+network unreachable resolving 'whois.markmonitor.com/A/IN': 2001:67c:1bc::2#53
+network unreachable resolving 'whois.markmonitor.com/A/IN': 2001:67c:10b8::2#53
+network unreachable resolving 'whois.markmonitor.com/A/IN': 2001:67c:10b8::1#53
+network unreachable resolving 'whois.markmonitor.com/AAAA/IN': 2001:67c:10b8::2#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/A/IN': 2001:7fe::53#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2001:500:200::b#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/A/IN': 2001:500:200::b#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/A/IN': 2001:7fd::1#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/A/IN': 2001:500:1::53#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/A/IN': 2001:500:2::c#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/A/IN': 2001:dc3::35#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/AAAA/IN': 2401:fd80:400::1#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/A/IN': 2401:fd80:400::1#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/AAAA/IN': 2a01:618:404::1#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/A/IN': 2a01:618:404::1#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/AAAA/IN': 2001:502:2eda::3#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/A/IN': 2001:502:2eda::3#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/AAAA/IN': 2610:a1:1009::3#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/A/IN': 2610:a1:1009::3#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/AAAA/IN': 2001:502:ad09::3#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/A/IN': 2001:502:ad09::3#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/AAAA/IN': 2a01:618:400::1#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/A/IN': 2a01:618:400::1#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/AAAA/IN': 2610:a1:1010::3#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/A/IN': 2610:a1:1010::3#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/AAAA/IN': 2401:fd80:404::1#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/A/IN': 2401:fd80:404::1#53
+network unreachable resolving 'ns-268.awsdns-33.com/AAAA/IN': 2600:9000:5300:2200::1#53
+network unreachable resolving 'ns-268.awsdns-33.com/AAAA/IN': 2600:9000:5302:6100::1#53
+network unreachable resolving 'ns-978.awsdns-58.net/AAAA/IN': 2600:9000:5307:ba00::1#53
+network unreachable resolving 'ns-978.awsdns-58.net/AAAA/IN': 2600:9000:5303:3c00::1#53
+network unreachable resolving 'ns-268.awsdns-33.com/AAAA/IN': 2600:9000:5304:a100::1#53
+network unreachable resolving 'ns-268.awsdns-33.com/AAAA/IN': 2600:9000:5306:e100::1#53
+network unreachable resolving 'ns-978.awsdns-58.net/AAAA/IN': 2600:9000:5301:fb00::1#53
+network unreachable resolving 'ns-978.awsdns-58.net/AAAA/IN': 2600:9000:5305:7a00::1#53
+network unreachable resolving 'ns-268.awsdns-33.com/A/IN': 2600:9000:5304:a100::1#53
+network unreachable resolving 'ns-1460.awsdns-54.org/AAAA/IN': 2600:9000:5300:b600::1#53
+network unreachable resolving 'ns-1460.awsdns-54.org/A/IN': 2600:9000:5300:b600::1#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/A/IN': 2600:9000:5307:1100::1#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/AAAA/IN': 2600:9000:5307:1100::1#53
+network unreachable resolving 'ns-1460.awsdns-54.org/AAAA/IN': 2600:9000:5304:3900::1#53
+network unreachable resolving 'ns-1460.awsdns-54.org/A/IN': 2600:9000:5304:3900::1#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/A/IN': 2600:9000:5305:d000::1#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/AAAA/IN': 2600:9000:5305:d000::1#53
+network unreachable resolving 'ns-1460.awsdns-54.org/AAAA/IN': 2600:9000:5306:7600::1#53
+network unreachable resolving 'ns-1460.awsdns-54.org/A/IN': 2600:9000:5306:7600::1#53
+network unreachable resolving 'ns-1460.awsdns-54.org/AAAA/IN': 2600:9000:5302:f800::1#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/A/IN': 2600:9000:5303:8d00::1#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/AAAA/IN': 2600:9000:5303:8d00::1#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/A/IN': 2600:9000:5301:4d00::1#53
+network unreachable resolving 'ns-1460.awsdns-54.org/A/IN': 2600:9000:5302:f800::1#53
+network unreachable resolving 'ns-1643.awsdns-13.co.uk/AAAA/IN': 2600:9000:5301:4d00::1#53
+network unreachable resolving 'ns-1831.awsdns-36.co.uk/A/IN': 2001:502:2eda::3#53
+network unreachable resolving 'ns-1831.awsdns-36.co.uk/AAAA/IN': 2001:502:2eda::3#53
+network unreachable resolving 'ns-1831.awsdns-36.co.uk/A/IN': 2a01:618:400::1#53
+network unreachable resolving 'ns-1831.awsdns-36.co.uk/AAAA/IN': 2a01:618:400::1#53
+network unreachable resolving 'ns-1831.awsdns-36.co.uk/A/IN': 2a01:618:404::1#53
+network unreachable resolving 'ns-1831.awsdns-36.co.uk/AAAA/IN': 2a01:618:404::1#53
+network unreachable resolving 'ns-1128.awsdns-13.org/A/IN': 2600:9000:5300:8d00::1#53
+network unreachable resolving 'ns-1128.awsdns-13.org/A/IN': 2600:9000:5302:cf00::1#53
+network unreachable resolving 'ns-1128.awsdns-13.org/A/IN': 2600:9000:5304:1000::1#53
+network unreachable resolving 'ns-1128.awsdns-13.org/A/IN': 2600:9000:5306:4d00::1#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2600:9000:5304:6800::1#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/A/IN': 2600:9000:5304:6800::1#53
+network unreachable resolving 'ns-1858.awsdns-40.co.uk/A/IN': 2001:502:2eda::3#53
+network unreachable resolving 'ns-1858.awsdns-40.co.uk/AAAA/IN': 2001:502:2eda::3#53
+network unreachable resolving 'ns-1090.awsdns-08.org/A/IN': 2600:9000:5302:ca00::1#53
+network unreachable resolving 'ns-1090.awsdns-08.org/A/IN': 2600:9000:5300:8800::1#53
+network unreachable resolving 'ns-1090.awsdns-08.org/A/IN': 2600:9000:5304:b00::1#53
+network unreachable resolving 'ns-1090.awsdns-08.org/A/IN': 2600:9000:5306:4800::1#53
+network unreachable resolving 'ns-1090.awsdns-08.org/AAAA/IN': 2600:9000:5302:ca00::1#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/A/IN': 2600:9000:5304:4200::1#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2600:9000:5304:4200::1#53
+network unreachable resolving 'ns-72.awsdns-09.com/AAAA/IN': 2600:9000:5300:a00::1#53
+network unreachable resolving 'ns-72.awsdns-09.com/AAAA/IN': 2600:9000:5304:8900::1#53
+network unreachable resolving 'ns-72.awsdns-09.com/AAAA/IN': 2600:9000:5302:4900::1#53
+network unreachable resolving 'ns-72.awsdns-09.com/AAAA/IN': 2600:9000:5306:c900::1#53
+network unreachable resolving 'ns-741.awsdns-28.net/AAAA/IN': 2600:9000:5301:dd00::1#53
+network unreachable resolving 'ns-741.awsdns-28.net/A/IN': 2600:9000:5301:dd00::1#53
+network unreachable resolving 'ns-741.awsdns-28.net/AAAA/IN': 2600:9000:5305:5c00::1#53
+network unreachable resolving 'ns-741.awsdns-28.net/A/IN': 2600:9000:5305:5c00::1#53
+network unreachable resolving 'ns-741.awsdns-28.net/AAAA/IN': 2600:9000:5303:1e00::1#53
+network unreachable resolving 'ns-741.awsdns-28.net/A/IN': 2600:9000:5303:1e00::1#53
+network unreachable resolving 'ns-741.awsdns-28.net/AAAA/IN': 2600:9000:5307:9c00::1#53
+network unreachable resolving 'ns-741.awsdns-28.net/A/IN': 2600:9000:5307:9c00::1#53
+network unreachable resolving 'ns-1858.awsdns-40.co.uk/A/IN': 2600:9000:5301:6800::1#53
+network unreachable resolving 'ns-1858.awsdns-40.co.uk/A/IN': 2600:9000:5307:2c00::1#53
+network unreachable resolving 'ns-1858.awsdns-40.co.uk/A/IN': 2600:9000:5303:a800::1#53
+network unreachable resolving 'ns-1858.awsdns-40.co.uk/A/IN': 2600:9000:5305:eb00::1#53
+network unreachable resolving 'ns-1858.awsdns-40.co.uk/AAAA/IN': 2600:9000:5303:a800::1#53
+network unreachable resolving 'kate.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:408#53
+network unreachable resolving 'kate.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:408#53
+network unreachable resolving 'ernest.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:21#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:21#53
+network unreachable resolving 'kate.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:21#53
+network unreachable resolving 'kate.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:21#53
+network unreachable resolving 'ernest.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:30b#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:30b#53
+network unreachable resolving 'kate.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:30b#53
+network unreachable resolving 'kate.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:30b#53
+network unreachable resolving 'kate.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:837#53
+network unreachable resolving 'ernest.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:837#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:837#53
+network unreachable resolving 'ernest.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:209#53
+network unreachable resolving 'kate.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:837#53
+network unreachable resolving 'kate.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:209#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:209#53
+network unreachable resolving 'ernest.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:606#53
+network unreachable resolving 'kate.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:209#53
+network unreachable resolving 'kate.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:606#53
+network unreachable resolving 'kate.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:606#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:606#53
+network unreachable resolving 'ernest.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:7e2#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:7e2#53
+network unreachable resolving 'kate.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:7e2#53
+network unreachable resolving 'kate.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:7e2#53
+network unreachable resolving 'ernest.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:506#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:506#53
+network unreachable resolving 'kate.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:506#53
+network unreachable resolving 'kate.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:506#53
+network unreachable resolving 'kate.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:121#53
+network unreachable resolving 'ernest.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:121#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:121#53
+network unreachable resolving 'ernest.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:937#53
+network unreachable resolving 'kate.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:121#53
+network unreachable resolving 'kate.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:937#53
+network unreachable resolving 'ernest.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:937#53
+network unreachable resolving 'kate.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:937#53
+network unreachable resolving 'www.uao.edu.co/A/IN': 2a06:98c1:50::ac40:21a4#53
+network unreachable resolving 'edu.co/DS/IN': 2610:a1:1012::21#53
+network unreachable resolving 'edu.co/DS/IN': 2001:dcd:2::14#53
+network unreachable resolving 'edu.co/DS/IN': 2610:a1:1011::21#53
+network unreachable resolving 'edu.co/DS/IN': 2001:dcd:3::14#53
+network unreachable resolving 'edu.co/DS/IN': 2610:a1:1010::21#53
+network unreachable resolving 'edu.co/DS/IN': 2001:dcd:1::14#53
+network unreachable resolving 'co/DNSKEY/IN': 2610:a1:1010::21#53
+network unreachable resolving 'www.uao.edu.co/AAAA/IN': 2a06:98c1:50::ac40:207c#53
+network unreachable resolving 'www.uao.edu.co/AAAA/IN': 2606:4700:58::adf5:3ba4#53
+network unreachable resolving 'www.uao.edu.co/AAAA/IN': 2803:f800:50::6ca2:c07c#53
+network unreachable resolving 'www.uao.edu.co/AAAA/IN': 2803:f800:50::6ca2:c1a4#53
+network unreachable resolving 'www.uao.edu.co/AAAA/IN': 2606:4700:50::adf5:3a7c#53
+network unreachable resolving 'whois.verisign-grs.com/A/IN': 2001:500:127::30#53
+network unreachable resolving 'whois.verisign-grs.com/AAAA/IN': 2001:500:127::30#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/A/IN': 2600:9000:5303:d200::1#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2600:9000:5303:d200::1#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/A/IN': 2600:9000:5306:6b00::1#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2600:9000:5306:6b00::1#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/A/IN': 2600:9000:5305:b400::1#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2600:9000:5305:b400::1#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/A/IN': 2600:9000:5301:c00::1#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2600:9000:5301:c00::1#53
+network unreachable resolving 'ns-352.awsdns-44.com/A/IN': 2600:9000:5302:6c00::1#53
+network unreachable resolving 'ns-352.awsdns-44.com/AAAA/IN': 2600:9000:5302:6c00::1#53
+network unreachable resolving 'ns-904.awsdns-49.net/A/IN': 2600:9000:5301:f200::1#53
+network unreachable resolving 'ns-904.awsdns-49.net/AAAA/IN': 2600:9000:5301:f200::1#53
+network unreachable resolving 'ns-1831.awsdns-36.co.uk/A/IN': 2600:9000:5301:6400::1#53
+network unreachable resolving 'ns-1831.awsdns-36.co.uk/AAAA/IN': 2600:9000:5301:6400::1#53
+network unreachable resolving 'ns-352.awsdns-44.com/A/IN': 2600:9000:5304:ac00::1#53
+network unreachable resolving 'ns-352.awsdns-44.com/AAAA/IN': 2600:9000:5304:ac00::1#53
+network unreachable resolving 'ns-904.awsdns-49.net/A/IN': 2600:9000:5305:7100::1#53
+network unreachable resolving 'ns-904.awsdns-49.net/AAAA/IN': 2600:9000:5305:7100::1#53
+network unreachable resolving 'ns-1831.awsdns-36.co.uk/A/IN': 2600:9000:5305:e700::1#53
+network unreachable resolving 'ns-1831.awsdns-36.co.uk/AAAA/IN': 2600:9000:5305:e700::1#53
+network unreachable resolving 'ns-352.awsdns-44.com/A/IN': 2600:9000:5306:ec00::1#53
+network unreachable resolving 'ns-352.awsdns-44.com/AAAA/IN': 2600:9000:5306:ec00::1#53
+network unreachable resolving 'ns-352.awsdns-44.com/A/IN': 2600:9000:5300:2d00::1#53
+network unreachable resolving 'ns-904.awsdns-49.net/A/IN': 2600:9000:5307:b100::1#53
+network unreachable resolving 'ns-904.awsdns-49.net/AAAA/IN': 2600:9000:5307:b100::1#53
+network unreachable resolving 'ns-904.awsdns-49.net/A/IN': 2600:9000:5303:3300::1#53
+network unreachable resolving 'ns-1831.awsdns-36.co.uk/A/IN': 2600:9000:5307:2800::1#53
+network unreachable resolving 'ns-1831.awsdns-36.co.uk/AAAA/IN': 2600:9000:5307:2800::1#53
+network unreachable resolving 'ns-1831.awsdns-36.co.uk/A/IN': 2600:9000:5303:a400::1#53
+network unreachable resolving 'ns-352.awsdns-44.com/AAAA/IN': 2600:9000:5300:2d00::1#53
+network unreachable resolving 'ns-904.awsdns-49.net/AAAA/IN': 2600:9000:5303:3300::1#53
+network unreachable resolving 'ns-1831.awsdns-36.co.uk/AAAA/IN': 2600:9000:5303:a400::1#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2600:9000:5300:4800::1#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2600:9000:5307:4200::1#53
+network unreachable resolving 'whois.prod.markmonitor.aws.clarivate.net/AAAA/IN': 2600:9000:5302:e500::1#53
+network unreachable resolving 'clarivate.net/DS/IN': 2001:503:d414::30#53
+network unreachable resolving 'clarivate.net/DS/IN': 2001:502:8cc::30#53
+network unreachable resolving 'clarivate.net/DS/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'clarivate.net/DS/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'clarivate.net/DS/IN': 2001:503:eea3::30#53
+network unreachable resolving 'clarivate.net/DS/IN': 2001:503:d2d::30#53
+network unreachable resolving 'clarivate.net/DS/IN': 2001:502:7094::30#53
+network unreachable resolving 'clarivate.net/DS/IN': 2001:503:83eb::30#53
+network unreachable resolving 'clarivate.net/DS/IN': 2001:503:39c1::30#53
+network unreachable resolving 'clarivate.net/DS/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'clarivate.net/DS/IN': 2001:500:856e::30#53
+network unreachable resolving 'clarivate.net/DS/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'clarivate.net/DS/IN': 2001:500:d937::30#53
+network unreachable resolving 'whois.verisign-grs.com/A/IN': 2001:500:127::30#53
+network unreachable resolving 'whois.verisign-grs.com/AAAA/IN': 2001:500:127::30#53
+network unreachable resolving 'whois.verisign-grs.com/A/IN': 2001:500:125::30#53
+network unreachable resolving 'whois.verisign-grs.com/AAAA/IN': 2001:500:125::30#53
+network unreachable resolving 'whois.verisign-grs.com/A/IN': 2001:500:126::30#53
+network unreachable resolving 'whois.verisign-grs.com/AAAA/IN': 2001:500:126::30#53
+network unreachable resolving 'whois.verisign-grs.com/A/IN': 2001:500:124::30#53
+network unreachable resolving 'whois.verisign-grs.com/AAAA/IN': 2001:500:124::30#53
+network unreachable resolving 'whois.registrarsafe.com/A/IN': 2001:503:d414::30#53
+network unreachable resolving 'whois.registrarsafe.com/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'whois.registrarsafe.com/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'whois.registrarsafe.com/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'whois.registrarsafe.com/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'whois.registrarsafe.com/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'whois.registrarsafe.com/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'whois.registrarsafe.com/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'whois.registrarsafe.com/A/IN': 2a03:2880:f1fc:c:face:b00c:0:35#53
+network unreachable resolving 'whois.registrarsafe.com/AAAA/IN': 2a03:2880:f1fc:c:face:b00c:0:35#53
+network unreachable resolving 'whois.registrarsafe.com/A/IN': 2a03:2880:f0fd:c:face:b00c:0:35#53
+network unreachable resolving 'whois.registrarsafe.com/AAAA/IN': 2a03:2880:f0fd:c:face:b00c:0:35#53
+network unreachable resolving 'whois.registrarsafe.com/A/IN': 2a03:2880:f0fc:c:face:b00c:0:35#53
+network unreachable resolving 'whois.registrarsafe.com/AAAA/IN': 2a03:2880:f0fc:c:face:b00c:0:35#53
+network unreachable resolving 'whois.registrarsafe.com/A/IN': 2a03:2880:f1fd:c:face:b00c:0:35#53
+network unreachable resolving 'whois.registrarsafe.com/AAAA/IN': 2a03:2880:f1fd:c:face:b00c:0:35#53
+network unreachable resolving '2.centos.pool.ntp.org/A/IN': 2001:500:40::1#53
+network unreachable resolving '2.centos.pool.ntp.org/AAAA/IN': 2001:500:40::1#53
+network unreachable resolving '2.centos.pool.ntp.org/A/IN': 2001:500:f::1#53
+network unreachable resolving '2.centos.pool.ntp.org/AAAA/IN': 2001:500:f::1#53
+network unreachable resolving '2.centos.pool.ntp.org/A/IN': 2001:500:48::1#53
+network unreachable resolving '2.centos.pool.ntp.org/AAAA/IN': 2001:500:48::1#53
+network unreachable resolving '2.centos.pool.ntp.org/A/IN': 2001:500:e::1#53
+network unreachable resolving '2.centos.pool.ntp.org/AAAA/IN': 2001:500:e::1#53
+network unreachable resolving '2.centos.pool.ntp.org/A/IN': 2001:500:b::1#53
+network unreachable resolving '2.centos.pool.ntp.org/AAAA/IN': 2001:500:b::1#53
+network unreachable resolving '2.centos.pool.ntp.org/A/IN': 2001:500:c::1#53
+network unreachable resolving '2.centos.pool.ntp.org/AAAA/IN': 2001:500:c::1#53
+network unreachable resolving 'dns1.udel.edu/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'dns1.udel.edu/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'dns1.udel.edu/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'dns1.udel.edu/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'dns1.udel.edu/A/IN': 2001:dc3::35#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'dns1.udel.edu/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'dns1.udel.edu/A/IN': 2001:7fe::53#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'dns1.udel.edu/A/IN': 2001:500:200::b#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2001:500:200::b#53
+network unreachable resolving 'dns1.udel.edu/A/IN': 2001:500:2::c#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'dns1.udel.edu/A/IN': 2001:500:1::53#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'dns1.udel.edu/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'dns1.udel.edu/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'dns1.udel.edu/A/IN': 2001:7fd::1#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'a.ntpns.org/A/IN': 2001:500:48::1#53
+network unreachable resolving 'a.ntpns.org/AAAA/IN': 2001:500:48::1#53
+network unreachable resolving 'b.ntpns.org/A/IN': 2001:500:f::1#53
+network unreachable resolving 'b.ntpns.org/AAAA/IN': 2001:500:f::1#53
+network unreachable resolving 'a.ntpns.org/A/IN': 2001:500:f::1#53
+network unreachable resolving 'a.ntpns.org/AAAA/IN': 2001:500:f::1#53
+network unreachable resolving 'ns1.p20.dynect.net/A/IN': 2001:500:90:1::136#53
+network unreachable resolving 'ns1.p20.dynect.net/A/IN': 2600:2000:1000::21#53
+network unreachable resolving 'ns1.p20.dynect.net/A/IN': 2001:500:94:1::136#53
+network unreachable resolving 'ns1.p20.dynect.net/A/IN': 2600:2000:1001::21#53
+network unreachable resolving 'ns2.p20.dynect.net/AAAA/IN': 2600:2000:1000::21#53
+network unreachable resolving 'ns2.p20.dynect.net/A/IN': 2600:2000:1000::21#53
+network unreachable resolving 'ns2.p20.dynect.net/AAAA/IN': 2600:2000:1001::21#53
+network unreachable resolving 'ns2.p20.dynect.net/A/IN': 2600:2000:1001::21#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2607:f470:1001::ad:1#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2607:f470:1003::ad:3#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2607:f470:1002::ad:2#53
+network unreachable resolving 'ns1.eu.bitnames.com/A/IN': 2604:a880:2:d0::1ce8:7001#53
+network unreachable resolving 'ns1.eu.bitnames.com/A/IN': 2604:1380:3000:8800::1#53
+network unreachable resolving 'ns2.eu.bitnames.com/A/IN': 2a03:b0c0:2:d0::20:1001#53
+network unreachable resolving 'ns2.eu.bitnames.com/A/IN': 2a03:b0c0:3:d0::c0:4001#53
+network unreachable resolving 'ns1.eu.bitnames.com/A/IN': 2a03:b0c0:2:d0::20:1001#53
+network unreachable resolving 'ns1.eu.bitnames.com/A/IN': 2a03:b0c0:3:d0::c0:4001#53
+network unreachable resolving '192.168.3.50.in-addr.arpa/PTR/IN': 2001:500:2f::f#53
+network unreachable resolving '192.168.3.50.in-addr.arpa/PTR/IN': 2001:500:1::53#53
+network unreachable resolving '192.168.3.50.in-addr.arpa/PTR/IN': 2001:500:87::87#53
+network unreachable resolving '192.168.3.50.in-addr.arpa/PTR/IN': 2001:13c7:7010::53#53
+network unreachable resolving '192.168.3.50.in-addr.arpa/PTR/IN': 2001:43f8:110::10#53
+network unreachable resolving '192.168.3.50.in-addr.arpa/PTR/IN': 2001:dd8:6::101#53
+network unreachable resolving '192.168.3.50.in-addr.arpa/PTR/IN': 2620:37:e000::53#53
+network unreachable resolving '192.168.3.50.in-addr.arpa/PTR/IN': 2001:67c:e0::1#53
+network unreachable resolving 'r.arin.net/A/IN': 2001:502:8cc::30#53
+network unreachable resolving 'r.arin.net/AAAA/IN': 2001:502:8cc::30#53
+network unreachable resolving 'u.arin.net/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'u.arin.net/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'x.arin.net/A/IN': 2001:503:39c1::30#53
+network unreachable resolving 'x.arin.net/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'y.arin.net/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'y.arin.net/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'z.arin.net/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'z.arin.net/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'r.arin.net/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'r.arin.net/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'u.arin.net/A/IN': 2001:503:39c1::30#53
+network unreachable resolving 'u.arin.net/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'x.arin.net/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'x.arin.net/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'y.arin.net/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'y.arin.net/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'z.arin.net/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'z.arin.net/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'r.arin.net/A/IN': 2001:503:39c1::30#53
+network unreachable resolving 'r.arin.net/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'r.arin.net/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'u.arin.net/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'u.arin.net/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'u.arin.net/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'x.arin.net/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'x.arin.net/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'x.arin.net/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'y.arin.net/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'y.arin.net/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'y.arin.net/A/IN': 2001:503:d2d::30#53
+network unreachable resolving 'z.arin.net/A/IN': 2001:503:d2d::30#53
+network unreachable resolving 'z.arin.net/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'z.arin.net/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'r.arin.net/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'r.arin.net/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'u.arin.net/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'u.arin.net/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'x.arin.net/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'x.arin.net/A/IN': 2001:503:d2d::30#53
+network unreachable resolving 'y.arin.net/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'y.arin.net/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'z.arin.net/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'z.arin.net/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'r.arin.net/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'r.arin.net/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'r.arin.net/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'u.arin.net/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'u.arin.net/A/IN': 2001:503:d2d::30#53
+network unreachable resolving 'u.arin.net/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'x.arin.net/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'x.arin.net/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'x.arin.net/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'y.arin.net/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'y.arin.net/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'y.arin.net/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'z.arin.net/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'z.arin.net/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'z.arin.net/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'r.arin.net/A/IN': 2001:503:d2d::30#53
+network unreachable resolving 'r.arin.net/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'u.arin.net/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'u.arin.net/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'x.arin.net/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'x.arin.net/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'y.arin.net/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'y.arin.net/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'z.arin.net/A/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'z.arin.net/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'r.arin.net/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'r.arin.net/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'r.arin.net/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'u.arin.net/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'u.arin.net/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'u.arin.net/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'x.arin.net/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'x.arin.net/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'x.arin.net/A/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'y.arin.net/A/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'y.arin.net/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'z.arin.net/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'z.arin.net/AAAA/IN': 2001:500:856e::30#53
+network unreachable resolving 'r.arin.net/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'r.arin.net/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'u.arin.net/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'u.arin.net/A/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'x.arin.net/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'x.arin.net/A/IN': 2001:500:856e::30#53
+network unreachable resolving '14.9.26.104.in-addr.arpa/PTR/IN': 2620:37:e000::53#53
+network unreachable resolving '14.9.26.104.in-addr.arpa/PTR/IN': 2001:43f8:110::10#53
+network unreachable resolving 'r.arin.net/A/IN': 2001:503:d414::30#53
+network unreachable resolving 'r.arin.net/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'u.arin.net/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'u.arin.net/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'x.arin.net/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'x.arin.net/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'r.arin.net/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'r.arin.net/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'u.arin.net/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'u.arin.net/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'r.arin.net/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'r.arin.net/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'y.arin.net/AAAA/IN': 2001:500:31::108#53
+network unreachable resolving 'y.arin.net/AAAA/IN': 2001:500:13::108#53
+network unreachable resolving 'y.arin.net/AAAA/IN': 2001:500:a9::108#53
+network unreachable resolving 'y.arin.net/AAAA/IN': 2001:500:14:6050:ad::1#53
+network unreachable resolving 'cruz.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:937#53
+network unreachable resolving 'cruz.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:937#53
+network unreachable resolving 'kevin.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:21#53
+network unreachable resolving 'kevin.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:21#53
+network unreachable resolving 'cruz.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:21#53
+network unreachable resolving 'cruz.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:21#53
+network unreachable resolving 'kevin.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:606#53
+network unreachable resolving 'kevin.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:606#53
+network unreachable resolving 'cruz.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:606#53
+network unreachable resolving 'cruz.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:606#53
+network unreachable resolving 'cruz.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:30b#53
+network unreachable resolving 'kevin.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:30b#53
+network unreachable resolving 'kevin.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:30b#53
+network unreachable resolving 'kevin.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:121#53
+network unreachable resolving 'cruz.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:30b#53
+network unreachable resolving 'cruz.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:121#53
+network unreachable resolving 'kevin.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:121#53
+network unreachable resolving 'kevin.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:209#53
+network unreachable resolving 'cruz.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:121#53
+network unreachable resolving 'cruz.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:209#53
+network unreachable resolving 'cruz.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:209#53
+network unreachable resolving 'kevin.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:209#53
+network unreachable resolving 'kevin.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:7e2#53
+network unreachable resolving 'kevin.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:7e2#53
+network unreachable resolving 'cruz.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:7e2#53
+network unreachable resolving 'cruz.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:7e2#53
+network unreachable resolving 'kevin.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:408#53
+network unreachable resolving 'kevin.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:408#53
+network unreachable resolving 'cruz.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:408#53
+network unreachable resolving 'cruz.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:408#53
+network unreachable resolving 'cruz.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:506#53
+network unreachable resolving 'kevin.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:506#53
+network unreachable resolving 'kevin.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:506#53
+network unreachable resolving 'kevin.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:837#53
+network unreachable resolving 'cruz.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:506#53
+network unreachable resolving 'cruz.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:837#53
+network unreachable resolving 'kevin.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:837#53
+network unreachable resolving 'cruz.ns.cloudflare.com/AAAA/IN': 2400:cb00:2049:1::a29f:837#53
+network unreachable resolving 'arpa/DS/IN': 2001:500:1::53#53
+network unreachable resolving 'in-addr.arpa/DNSKEY/IN': 2001:43f8:110::10#53
+network unreachable resolving 'arin.authdns.ripe.net/AAAA/IN': 2001:dd8:12::53#53
+network unreachable resolving 'arin.authdns.ripe.net/A/IN': 2001:dd8:12::53#53
+network unreachable resolving 'arin.authdns.ripe.net/AAAA/IN': 2620:38:2000::53#53
+network unreachable resolving 'arin.authdns.ripe.net/A/IN': 2620:38:2000::53#53
+network unreachable resolving 'arin.authdns.ripe.net/AAAA/IN': 2001:67c:e0::7#53
+network unreachable resolving 'arin.authdns.ripe.net/A/IN': 2001:67c:e0::7#53
+network unreachable resolving 'arin.authdns.ripe.net/AAAA/IN': 2001:500:14:6100:ad::1#53
+network unreachable resolving 'arin.authdns.ripe.net/A/IN': 2001:500:14:6100:ad::1#53
+network unreachable resolving 'arin.authdns.ripe.net/AAAA/IN': 2001:13c7:7002:3000::14#53
+network unreachable resolving 'arin.authdns.ripe.net/A/IN': 2001:13c7:7002:3000::14#53
+network unreachable resolving '26.104.in-addr.arpa/DS/IN': 2001:67c:e0::10#53
+network unreachable resolving '26.104.in-addr.arpa/DS/IN': 2001:500:13::63#53
+network unreachable resolving '26.104.in-addr.arpa/DS/IN': 2001:500:f0::63#53
+network unreachable resolving '26.104.in-addr.arpa/DS/IN': 2001:500:127::30#53
+network unreachable resolving '104.in-addr.arpa/DNSKEY/IN': 2001:67c:e0::10#53
+network unreachable resolving '231.73.67.172.in-addr.arpa/PTR/IN': 2606:4700:58::adf5:3bbf#53
+network unreachable resolving '231.73.67.172.in-addr.arpa/PTR/IN': 2a06:98c1:50::ac40:2058#53
+network unreachable resolving '231.73.67.172.in-addr.arpa/PTR/IN': 2a06:98c1:50::ac40:21bf#53
+network unreachable resolving '231.73.67.172.in-addr.arpa/PTR/IN': 2606:4700:50::adf5:3a58#53
+network unreachable resolving '231.73.67.172.in-addr.arpa/PTR/IN': 2803:f800:50::6ca2:c1bf#53
+network unreachable resolving '231.73.67.172.in-addr.arpa/PTR/IN': 2803:f800:50::6ca2:c058#53
+network unreachable resolving 'a.iana-servers.net/AAAA/IN': 2001:500:8d::53#53
+network unreachable resolving 'a.iana-servers.net/AAAA/IN': 2001:500:8e::53#53
+network unreachable resolving 'a.iana-servers.net/AAAA/IN': 2001:500:8f::53#53
+network unreachable resolving 'ns.icann.org/AAAA/IN': 2001:500:89::53#53
+network unreachable resolving 'ns.icann.org/A/IN': 2001:500:89::53#53
+network unreachable resolving 'x3.amazonaws.org/AAAA/IN': 2610:a1:1015::1#53
+network unreachable resolving 'x3.amazonaws.org/A/IN': 2610:a1:1015::1#53
+network unreachable resolving 'x2.amazonaws.com/A/IN': 2600:9000:5300:1b00::1#53
+network unreachable resolving 'x2.amazonaws.com/A/IN': 2600:9000:5303:c700::1#53
+network unreachable resolving 'x2.amazonaws.com/A/IN': 2001:502:f3ff::10#53
+network unreachable resolving 'x2.amazonaws.com/A/IN': 2610:a1:1014::10#53
+network unreachable resolving 'pdns1.ultradns.net/A/IN': 2610:a1:1014::e8#53
+network unreachable resolving 'pdns196.ultradns.co.uk/A/IN': 2001:502:2eda::3#53
+network unreachable resolving 'pdns196.ultradns.co.uk/AAAA/IN': 2001:502:2eda::3#53
+network unreachable resolving 'pdns196.ultradns.co.uk/A/IN': 2610:a1:1010::3#53
+network unreachable resolving 'pdns196.ultradns.co.uk/AAAA/IN': 2610:a1:1010::3#53
+network unreachable resolving 'pdns196.ultradns.co.uk/A/IN': 2a01:618:400::1#53
+network unreachable resolving 'pdns196.ultradns.co.uk/AAAA/IN': 2a01:618:400::1#53
+network unreachable resolving 'pdns196.ultradns.co.uk/A/IN': 2401:fd80:400::1#53
+network unreachable resolving 'pdns196.ultradns.co.uk/AAAA/IN': 2401:fd80:400::1#53
+network unreachable resolving 'pdns196.ultradns.co.uk/A/IN': 2a01:618:404::1#53
+network unreachable resolving 'pdns196.ultradns.co.uk/AAAA/IN': 2a01:618:404::1#53
+network unreachable resolving 'pdns196.ultradns.co.uk/A/IN': 2610:a1:1009::3#53
+network unreachable resolving 'pdns196.ultradns.co.uk/AAAA/IN': 2610:a1:1009::3#53
+network unreachable resolving 'pdns196.ultradns.co.uk/A/IN': 2001:502:ad09::3#53
+network unreachable resolving 'pdns196.ultradns.co.uk/AAAA/IN': 2001:502:ad09::3#53
+network unreachable resolving 'pdns196.ultradns.co.uk/A/IN': 2401:fd80:404::1#53
+network unreachable resolving 'pdns196.ultradns.co.uk/AAAA/IN': 2401:fd80:404::1#53
+network unreachable resolving 'pdns196.ultradns.org/AAAA/IN': 2001:502:4612::e8#53
+network unreachable resolving 'pdns196.ultradns.org/A/IN': 2001:502:4612::e8#53
+network unreachable resolving 'pdns196.ultradns.co.uk/A/IN': 2610:a1:1017::e8#53
+network unreachable resolving 'pdns196.ultradns.co.uk/AAAA/IN': 2610:a1:1017::e8#53
+network unreachable resolving 'pdns196.ultradns.co.uk/A/IN': 2001:502:4612::e8#53
+network unreachable resolving 'pdns196.ultradns.co.uk/AAAA/IN': 2001:502:4612::e8#53
+network unreachable resolving 'pdns196.ultradns.info/A/IN': 2001:500:1a::1#53
+network unreachable resolving 'pdns196.ultradns.info/A/IN': 2001:500:1c::1#53
+network unreachable resolving 'pdns196.ultradns.info/A/IN': 2001:500:49::1#53
+network unreachable resolving 'pdns196.ultradns.info/A/IN': 2001:500:1b::1#53
+network unreachable resolving 'pdns196.ultradns.info/A/IN': 2001:500:41::1#53
+network unreachable resolving 'pdns196.ultradns.info/A/IN': 2001:500:19::1#53
+network unreachable resolving 'pdns196.ultradns.info/AAAA/IN': 2001:500:1a::1#53
+network unreachable resolving 'pdns196.ultradns.info/AAAA/IN': 2001:500:1c::1#53
+network unreachable resolving 'pdns196.ultradns.biz/A/IN': 2001:dcd:3::13#53
+network unreachable resolving 'pdns196.ultradns.biz/AAAA/IN': 2001:dcd:3::13#53
+network unreachable resolving 'pdns196.ultradns.info/AAAA/IN': 2001:500:41::1#53
+network unreachable resolving 'pdns196.ultradns.biz/A/IN': 2001:dcd:1::13#53
+network unreachable resolving 'pdns196.ultradns.biz/AAAA/IN': 2001:dcd:1::13#53
+network unreachable resolving 'pdns196.ultradns.biz/A/IN': 2001:502:ad09::30#53
+network unreachable resolving 'pdns196.ultradns.biz/AAAA/IN': 2001:502:ad09::30#53
+network unreachable resolving 'pdns196.ultradns.biz/A/IN': 2001:dcd:2::13#53
+network unreachable resolving 'pdns196.ultradns.biz/AAAA/IN': 2001:dcd:2::13#53
+network unreachable resolving 'pdns196.ultradns.com/AAAA/IN': 2001:502:f3ff::e8#53
+network unreachable resolving 'pdns196.ultradns.info/AAAA/IN': 2610:a1:1016::e8#53
+network unreachable resolving 'pdns196.ultradns.biz/A/IN': 2610:a1:1015::e8#53
+network unreachable resolving 'pdns196.ultradns.biz/AAAA/IN': 2610:a1:1015::e8#53
+network unreachable resolving '35.6.240.157.in-addr.arpa/PTR/IN': 2001:dd8:6::101#53
+network unreachable resolving '35.6.240.157.in-addr.arpa/PTR/IN': 2001:500:127::30#53
+network unreachable resolving '240.157.in-addr.arpa/DS/IN': 2001:500:127::30#53
+network unreachable resolving 'a.ntpns.org/A/IN': 2604:1380:3000:8800::1#53
+network unreachable resolving 'a.ntpns.org/AAAA/IN': 2604:1380:3000:8800::1#53
+network unreachable resolving 'b.ntpns.org/A/IN': 2604:a880:2:d0::1ce8:7001#53
+network unreachable resolving 'b.ntpns.org/AAAA/IN': 2604:a880:2:d0::1ce8:7001#53
+network unreachable resolving 'c.ntpns.org/A/IN': 2a03:b0c0:2:d0::20:1001#53
+network unreachable resolving 'c.ntpns.org/AAAA/IN': 2a03:b0c0:2:d0::20:1001#53
+network unreachable resolving 'd.ntpns.org/A/IN': 2a03:b0c0:3:d0::c0:4001#53
+network unreachable resolving 'd.ntpns.org/AAAA/IN': 2a03:b0c0:3:d0::c0:4001#53
+network unreachable resolving 'e.ntpns.org/A/IN': 2a03:b0c0:3:d0::c0:4001#53
+network unreachable resolving 'e.ntpns.org/AAAA/IN': 2a03:b0c0:3:d0::c0:4001#53
+network unreachable resolving 'a.ntpns.org/A/IN': 2604:a880:2:d0::1ce8:7001#53
+network unreachable resolving 'a.ntpns.org/AAAA/IN': 2604:a880:2:d0::1ce8:7001#53
+network unreachable resolving 'b.ntpns.org/A/IN': 2a03:b0c0:2:d0::20:1001#53
+network unreachable resolving 'b.ntpns.org/AAAA/IN': 2a03:b0c0:2:d0::20:1001#53
+network unreachable resolving 'c.ntpns.org/A/IN': 2a03:b0c0:3:d0::c0:4001#53
+network unreachable resolving 'c.ntpns.org/AAAA/IN': 2a03:b0c0:3:d0::c0:4001#53
+network unreachable resolving 'a.ntpns.org/A/IN': 2a03:b0c0:2:d0::20:1001#53
+network unreachable resolving 'a.ntpns.org/AAAA/IN': 2a03:b0c0:2:d0::20:1001#53
+network unreachable resolving 'a.ntpns.org/A/IN': 2a03:b0c0:3:d0::c0:4001#53
+network unreachable resolving 'b.ntpns.org/A/IN': 2a03:b0c0:3:d0::c0:4001#53
+network unreachable resolving 'b.ntpns.org/AAAA/IN': 2a03:b0c0:3:d0::c0:4001#53
+network unreachable resolving 'a.ntpns.org/AAAA/IN': 2a03:b0c0:3:d0::c0:4001#53
+network unreachable resolving 'anyns.pch.net/A/IN': 2620:0:872::231:3#53
+network unreachable resolving 'anyns.pch.net/A/IN': 2001:500:14:6004:ad::1#53
+network unreachable resolving 'anyns.pch.net/A/IN': 2001:418:3f4::5#53
+network unreachable resolving '2.centos.pool.ntp.org/A/IN': 2a01:4f8:121:43cd::3:1#53
+network unreachable resolving '2.centos.pool.ntp.org/AAAA/IN': 2a01:4f8:121:43cd::3:1#53
+network unreachable resolving 'f.ntpns.org/A/IN': 2604:a880:2:d0::1ce8:7001#53
+network unreachable resolving 'f.ntpns.org/AAAA/IN': 2604:a880:2:d0::1ce8:7001#53
+network unreachable resolving '2.centos.pool.ntp.org/A/IN': 2604:a880:4:1d0::375:7000#53
+network unreachable resolving '2.centos.pool.ntp.org/AAAA/IN': 2604:a880:4:1d0::375:7000#53
+network unreachable resolving 'f.ntpns.org/A/IN': 2001:500:14:6004:ad::1#53
+network unreachable resolving 'f.ntpns.org/AAAA/IN': 2001:500:14:6004:ad::1#53
+network unreachable resolving '2.centos.pool.ntp.org/A/IN': 2a03:b0c0:1:d0::fef:d001#53
+network unreachable resolving '2.centos.pool.ntp.org/AAAA/IN': 2a03:b0c0:1:d0::fef:d001#53
+network unreachable resolving 'anyns.pch.net/AAAA/IN': 2620:0:872::231:3#53
+network unreachable resolving 'anyns.pch.net/AAAA/IN': 2001:500:14:6004:ad::1#53
+network unreachable resolving 'ntp.org/DS/IN': 2001:500:48::1#53
+network unreachable resolving 'ntp.org/DS/IN': 2001:500:f::1#53
+network unreachable resolving 'ntp.org/DS/IN': 2001:500:c::1#53
+network unreachable resolving 'ntp.org/DS/IN': 2001:500:b::1#53
+network unreachable resolving 'ntp.org/DS/IN': 2001:500:e::1#53
+network unreachable resolving 'ntp.org/DS/IN': 2001:500:40::1#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 2
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 3
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 4
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+network unreachable resolving '2.centos.pool.ntp.org/A/IN': 2001:500:1::53#53
+network unreachable resolving '2.centos.pool.ntp.org/A/IN': 2001:500:48::1#53
+network unreachable resolving '2.centos.pool.ntp.org/A/IN': 2001:500:e::1#53
+network unreachable resolving '2.centos.pool.ntp.org/A/IN': 2001:500:40::1#53
+network unreachable resolving '2.centos.pool.ntp.org/A/IN': 2001:500:b::1#53
+network unreachable resolving '2.centos.pool.ntp.org/A/IN': 2001:500:f::1#53
+network unreachable resolving '2.centos.pool.ntp.org/A/IN': 2001:500:c::1#53
+network unreachable resolving 'ns3.p20.dynect.net/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'ns3.p20.dynect.net/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'ns2.p20.dynect.net/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'ns2.p20.dynect.net/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'ns3.p20.dynect.net/A/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'ns3.p20.dynect.net/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'ns2.p20.dynect.net/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'ns2.p20.dynect.net/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'ns2.p20.dynect.net/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'ns3.p20.dynect.net/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'ns3.p20.dynect.net/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'ns3.p20.dynect.net/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'ns2.p20.dynect.net/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'ns2.p20.dynect.net/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'ns3.p20.dynect.net/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'ns3.p20.dynect.net/A/IN': 2001:503:d414::30#53
+network unreachable resolving 'ns2.p20.dynect.net/AAAA/IN': 2001:502:8cc::30#53
+network unreachable resolving 'ns2.p20.dynect.net/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'ns2.p20.dynect.net/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'ns3.p20.dynect.net/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'ns3.p20.dynect.net/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'ns3.p20.dynect.net/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'ns2.p20.dynect.net/AAAA/IN': 2001:500:856e::30#53
+network unreachable resolving 'ns2.p20.dynect.net/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'ns3.p20.dynect.net/A/IN': 2001:503:d2d::30#53
+network unreachable resolving 'ns3.p20.dynect.net/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'ns3.p20.dynect.net/A/IN': 2001:503:39c1::30#53
+network unreachable resolving 'ns3.p20.dynect.net/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'ns3.p20.dynect.net/A/IN': 2001:502:8cc::30#53
+network unreachable resolving 'ns3.p20.dynect.net/AAAA/IN': 2001:502:8cc::30#53
+network unreachable resolving 'ns3.p20.dynect.net/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'ns3.p20.dynect.net/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'ns3.p20.dynect.net/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'ns3.p20.dynect.net/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'ns3.p20.dynect.net/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'ns3.p20.dynect.net/AAAA/IN': 2001:500:856e::30#53
+network unreachable resolving 'ns3.p20.dynect.net/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'ns3.p20.dynect.net/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'ns2.p20.dynect.net/AAAA/IN': 2600:2000:1000::21#53
+network unreachable resolving 'ns2.p20.dynect.net/AAAA/IN': 2001:500:90:1::136#53
+network unreachable resolving 'ns3.p20.dynect.net/A/IN': 2600:2000:1001::21#53
+network unreachable resolving 'ns3.p20.dynect.net/A/IN': 2001:500:94:1::136#53
+network unreachable resolving 'ns2.p20.dynect.net/AAAA/IN': 2600:2000:1001::21#53
+network unreachable resolving 'ns2.p20.dynect.net/AAAA/IN': 2001:500:94:1::136#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 5
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 6
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 7
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:7fd::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:200::b#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:200::b#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:7fe::53#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:40::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:e::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:48::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:f::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:c::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:b::1#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2610:a1:1011::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2610:a1:1011::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2610:a1:1012::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2610:a1:1012::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2610:a1:1010::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2610:a1:1010::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2001:dcd:1::14#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2001:dcd:1::14#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2001:dcd:3::14#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2001:dcd:3::14#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2001:dcd:2::14#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2001:dcd:2::14#53
+network unreachable resolving 'edu.co/DS/IN': 2001:dcd:3::14#53
+network unreachable resolving 'mirrors.fedoraproject.org/A/IN': 2610:28:3090:3001:dead:beef:cafe:fed5#53
+network unreachable resolving 'mirrors.fedoraproject.org/AAAA/IN': 2610:28:3090:3001:dead:beef:cafe:fed5#53
+network unreachable resolving 'mirrors.fedoraproject.org/A/IN': 2001:4178:2:1269:dead:beef:cafe:fed5#53
+network unreachable resolving 'mirrors.fedoraproject.org/AAAA/IN': 2001:4178:2:1269:dead:beef:cafe:fed5#53
+network unreachable resolving 'fedoraproject.org/DNSKEY/IN': 2610:28:3090:3001:dead:beef:cafe:fed5#53
+network unreachable resolving 'mirror.genesisadaptive.com/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'mirror.genesisadaptive.com/A/IN': 2001:503:d414::30#53
+network unreachable resolving 'mirror.genesisadaptive.com/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'mirror.genesisadaptive.com/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'mirror.genesisadaptive.com/AAAA/IN': 2001:500:856e::30#53
+network unreachable resolving 'mirror.genesisadaptive.com/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'mirror.genesisadaptive.com/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'mirror.genesisadaptive.com/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'mirror.genesisadaptive.com/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'mirror.genesisadaptive.com/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'mirror.genesisadaptive.com/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'mirror.genesisadaptive.com/A/IN': 2001:503:d2d::30#53
+network unreachable resolving 'mirror.genesisadaptive.com/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'mirror.genesisadaptive.com/A/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'mirror.genesisadaptive.com/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'mirror.genesisadaptive.com/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'mirror.genesisadaptive.com/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'mirror.genesisadaptive.com/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'mirror.genesisadaptive.com/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'mirror.genesisadaptive.com/A/IN': 2001:503:39c1::30#53
+network unreachable resolving 'mirror.genesisadaptive.com/AAAA/IN': 2001:502:8cc::30#53
+network unreachable resolving 'mirror.genesisadaptive.com/A/IN': 2001:502:8cc::30#53
+network unreachable resolving 'mirror.genesisadaptive.com/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'mirror.genesisadaptive.com/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'mirror.genesisadaptive.com/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'mirror.genesisadaptive.com/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'ns2.hosteddns.net/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'ns2.hosteddns.net/A/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'ns4.hosteddns.net/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'ns4.hosteddns.net/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'ns2.hosteddns.net/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'ns2.hosteddns.net/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'ns4.hosteddns.net/A/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'ns4.hosteddns.net/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'ns1.hosteddns.net/AAAA/IN': 2605:1080:0:f00::5#53
+network unreachable resolving 'ns1.hosteddns.net/AAAA/IN': 2605:1080:1:f00::5#53
+network unreachable resolving 'ns2.hosteddns.net/A/IN': 2605:1080:1:f00::6#53
+network unreachable resolving 'ns2.hosteddns.net/A/IN': 2605:1080:0:f00::6#53
+network unreachable resolving 'ns1.hosteddns.net/AAAA/IN': 2605:1080:1:f00::6#53
+network unreachable resolving 'ns1.hosteddns.net/AAAA/IN': 2605:1080:0:f00::6#53
+network unreachable resolving 'ns1.hosteddns.net/A/IN': 2605:1080:0:f00::6#53
+network unreachable resolving 'fedora.cu.be/A/IN': 2001:678:6c::1#53
+network unreachable resolving 'fedora.cu.be/A/IN': 2001:dcd:7::8#53
+network unreachable resolving 'fedora.cu.be/A/IN': 2001:678:9::1#53
+network unreachable resolving 'fedora.cu.be/A/IN': 2001:678:68::1#53
+network unreachable resolving 'fedora.cu.be/A/IN': 2001:678:64::1#53
+network unreachable resolving 'fedora.cu.be/A/IN': 2001:678:20::36#53
+network unreachable resolving 'fedora.cu.be/AAAA/IN': 2001:678:68::1#53
+network unreachable resolving 'fedora.cu.be/AAAA/IN': 2001:678:20::36#53
+network unreachable resolving 'fedora.cu.be/A/IN': 2001:67c:314::feed:feed#53
+network unreachable resolving 'fedora.cu.be/A/IN': 2a01:4f8:c0c:f71f::1#53
+network unreachable resolving 'cu.be/DS/IN': 2001:678:20::36#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 8
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 9
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 10
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 11
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 12
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+network unreachable resolving '2.centos.pool.ntp.org/AAAA/IN': 2001:500:40::1#53
+network unreachable resolving '2.centos.pool.ntp.org/AAAA/IN': 2001:500:f::1#53
+network unreachable resolving '2.centos.pool.ntp.org/AAAA/IN': 2001:500:b::1#53
+network unreachable resolving '2.centos.pool.ntp.org/AAAA/IN': 2001:500:e::1#53
+network unreachable resolving '2.centos.pool.ntp.org/AAAA/IN': 2001:500:48::1#53
+network unreachable resolving '2.centos.pool.ntp.org/AAAA/IN': 2001:500:c::1#53
+network unreachable resolving '2.centos.pool.ntp.org/A/IN': 2001:500:48::1#53
+network unreachable resolving 'ns1.p20.dynect.net/A/IN': 2001:503:d2d::30#53
+network unreachable resolving 'ns1.p20.dynect.net/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'ns1.p20.dynect.net/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'ns1.p20.dynect.net/A/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'ns1.p20.dynect.net/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'ns1.p20.dynect.net/A/IN': 2001:503:39c1::30#53
+network unreachable resolving 'ns1.p20.dynect.net/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'ns1.p20.dynect.net/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'ns1.p20.dynect.net/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'ns1.p20.dynect.net/A/IN': 2001:502:8cc::30#53
+network unreachable resolving 'ns1.p20.dynect.net/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'ns1.p20.dynect.net/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'ns1.p20.dynect.net/A/IN': 2001:503:d414::30#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'ns1.p20.dynect.net/A/IN': 2001:500:90:1::136#53
+network unreachable resolving 'ns1.p20.dynect.net/A/IN': 2001:500:94:1::136#53
+network unreachable resolving 'ns1.p20.dynect.net/A/IN': 2600:2000:1001::21#53
+network unreachable resolving 'ns1.p20.dynect.net/A/IN': 2600:2000:1000::21#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2607:f470:1002::ad:2#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2607:f470:1001::ad:1#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2607:f470:1003::ad:3#53
+network unreachable resolving 'ns3.p20.dynect.net/AAAA/IN': 2600:2000:1001::21#53
+network unreachable resolving 'ns3.p20.dynect.net/A/IN': 2600:2000:1001::21#53
+network unreachable resolving 'dns1.udel.edu/A/IN': 2607:f470:1003::ad:3#53
+network unreachable resolving 'ns2.us.bitnames.com/A/IN': 2a03:b0c0:2:d0::20:1001#53
+network unreachable resolving 'ns2.us.bitnames.com/A/IN': 2604:1380:3000:8800::1#53
+network unreachable resolving 'ns2.us.bitnames.com/A/IN': 2604:a880:2:d0::1ce8:7001#53
+network unreachable resolving 'ns2.us.bitnames.com/A/IN': 2a03:b0c0:3:d0::c0:4001#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 13
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 14
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+trust-anchor-telemetry '_ta-4f66/IN' from 192.168.50.2
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:500:2d::d#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:7fe::53#53
+network unreachable resolving '_ta-4f66/NULL/IN': 2001:dc3::35#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 15
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 16
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:2::c#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:b::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:48::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:f::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:e::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:40::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:c::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:40::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:b::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:f::1#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2610:a1:1011::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2610:a1:1011::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2001:dcd:2::14#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2001:dcd:2::14#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2610:a1:1010::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2610:a1:1010::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2610:a1:1012::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2610:a1:1012::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2001:dcd:3::14#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2001:dcd:3::14#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2001:dcd:1::14#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2001:dcd:1::14#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 17
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:7fe::53#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:2::c#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:1::53#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:48::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:48::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:b::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:b::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:e::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:e::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:c::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:c::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:f::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:f::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:40::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:40::1#53
+network unreachable resolving 'centos.org/DS/IN': 2001:500:48::1#53
+network unreachable resolving 'centos.org/DS/IN': 2001:500:b::1#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2610:a1:1012::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2001:dcd:2::14#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2610:a1:1011::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2001:dcd:1::14#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2610:a1:1010::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2001:dcd:3::14#53
+network unreachable resolving 'mirrors.fedoraproject.org/AAAA/IN': 2610:28:3090:3001:dead:beef:cafe:fed5#53
+network unreachable resolving 'mirrors.fedoraproject.org/A/IN': 2610:28:3090:3001:dead:beef:cafe:fed5#53
+network unreachable resolving 'mirrors.fedoraproject.org/AAAA/IN': 2001:4178:2:1269:dead:beef:cafe:fed5#53
+network unreachable resolving 'mirrors.fedoraproject.org/A/IN': 2001:4178:2:1269:dead:beef:cafe:fed5#53
+network unreachable resolving 'mirror1.cl.netactuate.com/AAAA/IN': 2001:500:856e::30#53
+network unreachable resolving 'mirror1.cl.netactuate.com/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'mirror1.cl.netactuate.com/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'mirror1.cl.netactuate.com/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'mirror1.cl.netactuate.com/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'mirror1.cl.netactuate.com/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'mirror1.cl.netactuate.com/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'mirror1.cl.netactuate.com/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'mirror1.cl.netactuate.com/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'mirror1.cl.netactuate.com/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'mirror1.cl.netactuate.com/AAAA/IN': 2001:502:8cc::30#53
+network unreachable resolving 'mirror1.cl.netactuate.com/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'mirror1.cl.netactuate.com/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'mirror1.cl.netactuate.com/A/IN': 2001:503:39c1::30#53
+network unreachable resolving 'mirror1.cl.netactuate.com/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'mirror1.cl.netactuate.com/A/IN': 2001:502:8cc::30#53
+network unreachable resolving 'mirror1.cl.netactuate.com/AAAA/IN': 2001:470:1f15:b2c::1#53
+network unreachable resolving 'mirror1.cl.netactuate.com/AAAA/IN': 2605:6400:10:3ef::1#53
+network unreachable resolving 'mirror1.cl.netactuate.com/A/IN': 2a00:d880:5:832::86ed#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 18
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:2::c#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:7fe::53#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:dc3::35#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:7fd::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:1::53#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:200::b#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:200::b#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:f::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:f::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:48::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:48::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:e::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:e::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:40::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:40::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:b::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:b::1#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:c::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:c::1#53
+network unreachable resolving 'cliente.alarcon.comexit/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'cliente.alarcon.comexit/A/IN': 2001:7fd::1#53
+network unreachable resolving 'cliente.alarcon.comexit/A/IN': 2001:dc3::35#53
+network unreachable resolving 'cliente.alarcon.comexit/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'cliente.alarcon.comexit/A/IN': 2001:500:1::53#53
+network unreachable resolving 'cliente.alarcon.comexit/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'cliente.alarcon.comexit/A/IN': 2001:7fe::53#53
+network unreachable resolving 'cliente.alarcon.comexit/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'cliente.alarcon.comexit/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'cliente.alarcon.comexit/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'cliente.alarcon.comexit/A/IN': 2001:500:2::c#53
+network unreachable resolving 'cliente.alarcon.comexit/A/IN': 2001:500:200::b#53
+network unreachable resolving 'cliente.alarcon.comexit/A/IN': 2001:503:ba3e::2:30#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 19
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 20
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 21
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 22
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 23
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 24
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 25
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 26
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 27
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 28
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 29
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 30
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 31
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 32
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 33
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:dc3::35#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:7fe::53#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:1::53#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:2::c#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:200::b#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:200::b#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:7fd::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:7fd::1#53
+trust-anchor-telemetry '_ta-4f66/IN' from 192.168.50.3
+trust-anchor-telemetry '_ta-4f66/IN' from 192.168.50.2
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'mirrorlist.centos.org/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:c::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:f::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:40::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:48::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:b::1#53
+network unreachable resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:e::1#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2001:dcd:2::14#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2001:dcd:2::14#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2610:a1:1010::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2610:a1:1010::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2610:a1:1012::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2610:a1:1012::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2001:dcd:1::14#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2001:dcd:1::14#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2001:dcd:3::14#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2001:dcd:3::14#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/AAAA/IN': 2610:a1:1011::21#53
+network unreachable resolving 'mirror.unimagdalena.edu.co/A/IN': 2610:a1:1011::21#53
+network unreachable resolving 'edu.co/DS/IN': 2610:a1:1011::21#53
+network unreachable resolving 'co/DNSKEY/IN': 2610:a1:1011::21#53
+network unreachable resolving 'mirrors.fedoraproject.org/A/IN': 2610:28:3090:3001:dead:beef:cafe:fed5#53
+network unreachable resolving 'mirrors.fedoraproject.org/A/IN': 2001:4178:2:1269:dead:beef:cafe:fed5#53
+network unreachable resolving 'mirror.uepg.br/AAAA/IN': 2001:12f8:6::10#53
+network unreachable resolving 'mirror.uepg.br/A/IN': 2001:12f8:6::10#53
+network unreachable resolving 'mirror.uepg.br/AAAA/IN': 2001:12f8:4::10#53
+network unreachable resolving 'mirror.uepg.br/A/IN': 2001:12f8:4::10#53
+network unreachable resolving 'mirror.uepg.br/AAAA/IN': 2001:12f8:2::10#53
+network unreachable resolving 'mirror.uepg.br/A/IN': 2001:12f8:2::10#53
+network unreachable resolving 'mirror.uepg.br/AAAA/IN': 2001:12f8:c::10#53
+network unreachable resolving 'mirror.uepg.br/A/IN': 2001:12f8:c::10#53
+network unreachable resolving 'mirror.uepg.br/AAAA/IN': 2001:12f8:8::10#53
+network unreachable resolving 'mirror.uepg.br/A/IN': 2001:12f8:8::10#53
+network unreachable resolving 'mirror.uepg.br/AAAA/IN': 2001:12f8:a::10#53
+network unreachable resolving 'mirror.uepg.br/A/IN': 2001:12f8:a::10#53
+network unreachable resolving 'mirror.uepg.br/A/IN': 2804:1f04:20::22#53
+network unreachable resolving 'mirror.uepg.br/AAAA/IN': 2804:1f04:20::22#53
+network unreachable resolving 'mirror.uepg.br/A/IN': 2804:1f04:30::22#53
+network unreachable resolving 'mirror.uepg.br/AAAA/IN': 2804:1f04:30::22#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 34
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+network unreachable resolving 'www.miotrosito.com/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'www.miotrosito.com/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'www.miotrosito.com/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'www.miotrosito.com/A/IN': 2001:503:d2d::30#53
+network unreachable resolving 'www.miotrosito.com/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'www.miotrosito.com/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'www.miotrosito.com/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'www.miotrosito.com/A/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'www.miotrosito.com/A/IN': 2001:503:39c1::30#53
+network unreachable resolving 'www.miotrosito.com/A/IN': 2001:502:8cc::30#53
+network unreachable resolving 'www.miotrosito.com/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'www.miotrosito.com/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'www.miotrosito.com/A/IN': 2001:503:d414::30#53
+network unreachable resolving 'www.miotrosito.com/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'www.miotrosito.com/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'www.miotrosito.com/AAAA/IN': 2001:502:7094::30#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 35
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 50.168.192.in-addr.arpa/IN: loaded serial 0
+zone miotrositio.com/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone alarcon.com/IN: loaded serial 0
+zone servicios.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:200::b#53
+network unreachable resolving './NS/IN': 2001:500:200::b#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.50.3#53
+no longer listening on ::1#53
+exiting

@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Acceso restringido usando HtAccess"
+AuthUserFile /etc/httpd/claveHtaccess
+Require valid-user

@@ -1,0 +1,17 @@
+$ORIGIN stars.com.
+$TTL 3H
+@       IN SOA  servidor3.stars.com.    root@stars.com. (
+                                        0       ; serial
+                                        1D      ; refresh
+                                        1H      ; retry
+                                        1W      ; expire
+                                        3H )    ; minimum
+@       IN      NS      servidor3.stars.com.
+@       IN      NS      servidor2.stars.com.
+@       IN      NS      firewall.stars.com.
+@       IN      NS      smart.stars.com.
+servidor3       IN      A       192.168.50.4
+servidor2       IN      A       192.168.50.3
+firewall        IN      A       192.168.50.2
+smart           IN      A       192.168.0.11
+www             IN      CNAME   servidor3

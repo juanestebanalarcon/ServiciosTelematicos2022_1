@@ -1,0 +1,14 @@
+$ORIGIN 50.168.192.in-addr.arpa.
+$TTL 3H
+@       IN SOA  servidor3.stars.com.    root@stars.com. (
+                                        0       ; serial
+                                        1D      ; refresh
+                                        1H      ; retry
+                                        1W      ; expire
+                                        3H )    ; minimum
+@       IN      NS      servidor3.stars.com.
+@       IN      NS      servidor2.stars.com.
+@       IN      NS      firewall.stars.com.
+3       IN      PTR     servidor3.stars.com.
+2       IN      PTR     servidor2.stars.com.
+100     IN      PTR     firewall.stars.com.

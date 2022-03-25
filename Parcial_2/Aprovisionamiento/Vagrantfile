@@ -1,0 +1,25 @@
+Vagrant.configure("2") do |config|
+config.vm.define :servidor2 do |servidor2|
+servidor2.vm.box = "bento/centos-7.9"
+servidor2.vm.network :private_network, ip: "192.168.50.2"
+servidor2.vm.hostname = "servidor2"
+servidor2.vm.provision "shell", path: "./ScriptServidor2.sh"
+end
+
+config.vm.define :servidor3 do |servidor3|
+servidor3.vm.box = "bento/centos-7.9"
+servidor3.vm.network :private_network, ip: "192.168.50.3"
+servidor3.vm.hostname = "servidor3"
+servidor3.vm.provision "shell", path: "./ScriptServidor3.sh"
+end
+
+config.vm.define :firewall do |firewall|
+firewall.vm.box = "bento/centos-7.9"
+firewall.vm.network :public_network, ip: "192.168.1.100"
+firewall.vm.network :private_network, ip: "192.168.50.4"
+firewall.vm.network :forwarded_port, guest: 80, host: 5000
+firewall.vm.hostname = "firewall"
+firewall.vm.provision "shell", path: "./ScriptFirewall.sh"
+end
+
+end

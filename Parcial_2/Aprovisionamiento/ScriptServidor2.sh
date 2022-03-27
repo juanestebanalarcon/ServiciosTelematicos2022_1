@@ -2,7 +2,7 @@ echo "instalando servicios requeridos para la máquina Servidor2:"
 sudo yum install vsftpd -y
 sudo yum install vim -y
 sudo yum install bind-utils bin-libs bind-* -y
-sudo userradd montoya
+sudo userradd alarconsardi
 sudo yum install openssl -y
 sudo yum install mod_ssl -y
 sudo openssl genrsa -out ca.key 1024

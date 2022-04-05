@@ -5,11 +5,8 @@
 	  <br>
 	  <hr>
 	  <ul>
-	   {% for i in data  %}
-	   <li>{{i.title}}</li>
-	   <li>{{i.body}}</li>
-	   <li>{{i.author}}</li>
-	   <li>{{i.create_date}}</li>
+	   {% for k,v in data.items()  %}
+	   <li>{{k}} : {{v}}</li>
 	   {%endfor%}
 	  </ul>
 {% endblock %}

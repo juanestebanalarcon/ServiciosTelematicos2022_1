@@ -11,7 +11,7 @@ def about():
 @app.route('/articles')
 def articles():
     return render_template("articles.html")
-@app.route('/article/<int:id>',methods=['GET'])
+@app.route('/article/<int:id>')
 def getArticle(id):
     articles=d.Articles()
     for data in articles:

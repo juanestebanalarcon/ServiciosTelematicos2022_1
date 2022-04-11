@@ -53,6 +53,11 @@ de los dos servidores web le entrega las peticiones realizadas por el usuario a 
 
 3. El siguiente paso es levantar una por una las máquinas previamente creadas.
 
+```bash
+vagrant up 
+vagrant ssh <nombre_maquina>
+```
+
 3.1 Para las máquinas Servidor 1 y Servidor 2 es necesario realizar la siguiente configuración:
 
 ```bash

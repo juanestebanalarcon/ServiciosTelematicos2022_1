@@ -1,4 +1,4 @@
-# Balanceador de carga de servidores web <<Apache mod_proxy_balancer>>
+# Balanceador de carga de servidores web <Apache mod_proxy_balancer>
 
 ## Pruebas a realizar con JMeter:
 
@@ -45,3 +45,29 @@ end
 ```
 Para este proyecto fue necesario utilizar estas tres máquinas para cumplir el siguiente esquema:
 ![Esquema para el balanceador de carga de servidores web](Img.png)
+
+### ¿Qué función cumple cada máquina?
+* La máquina loadbalancer actúa como el balanceador de carga entre las otras dos máquinas, es la encargada de decidir a cuál
+de los dos servidores web le entrega las peticiones realizadas por el usuario a través del mismo, actuando como front-end.
+* Las máquinas servidor1 y servidor2 actúan como servidores web que muestran una página con texto plano, es decir, actúan como el back-end para este proyecto.
+
+3. El siguiente paso es levantar una por una las máquinas previamente creadas.
+
+3.1 Para las máquinas Servidor 1 y Servidor 2 es necesario realizar la siguiente configuración:
+
+```bash
+yum install vim httpd
+```
+- Crear un archivo .html que contendrá texto plano y será la página principal para cada máquina:
+```bash
+sudo -i
+vim /var/www/html/index.html
+```
+- Luego guardamos los cambios y reiniciamos el servicio:
+
+```bash
+Presionar la tecla ESC
+:wq
+service httpd restart
+```
+3.2. Para la máquina loadbalancer es necesario realizar la siguiente configuración:

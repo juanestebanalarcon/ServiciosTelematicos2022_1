@@ -71,3 +71,41 @@ Presionar la tecla ESC
 service httpd restart
 ```
 3.2. Para la máquina loadbalancer es necesario realizar la siguiente configuración:
+
+```bash
+sudo -i
+yum install vim httpd
+```
+- Luego abrimos el archivo de configuración del servicio http, debemos agregar lo siguiente:
+
+```bash
+vim /etc/httpd/conf/httpd.conf
+```
+- Para utilizar el mod_proxy y el mod_proxy_http, agregamos las siguientes líneas:
+
+```bash
+LoadModule proxy_module modules/mod_proxy.so
+LoadModule proxy_http_module modules/mod_proxy_http.so
+```
+
+- Para configurar el balanceo de carga entre los servidores back-end, es necesario agregar un VirtualHost como se muestra a continuación:
+
+```bash
+<VirtualHost *:80>
+<Proxy balancer://clusterServicios>
+BalancerMember http://192.168.50.10
+BalancerMember http://192.168.50.20
+ProxySet lbmethod=bytraffic
+</Proxy>
+ProxyPreserveHost On
+ProxyPass "/" "balancer://clusterServicios/"
+ProxyPassReverse "/" "balancer://clusterServicios/"
+</VirtualHost>
+```
+- Ahora guardamos los cambios y reiniciamos el servicio:
+
+```bash
+Presionamos ESC
+:wq
+service httpd restart
+```

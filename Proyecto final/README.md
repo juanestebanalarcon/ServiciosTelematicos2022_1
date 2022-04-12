@@ -115,5 +115,4 @@ Presionamos ESC
 service httpd restart
 ```
 ## Presentación del proyecto:
-
-![proyectofinal](Proyecto final - Servicios Telemáticos 2022-1 _ Team Rocket.pdf)
+Adjunto en el repo.

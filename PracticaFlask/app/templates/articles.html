@@ -1,16 +1,12 @@
 {% extends "base.html" %}
 {% block title %}Articles{% endblock %}
 {% block body %}
-	  <h1>Articles</h1>
-	  <table border="1">
-		  <tr>
-		  <td><a href="/article/1" target="_blank">Article 1</a></td>
-		  </tr>
-		  <tr>
-	<td><a href="/article/2" target="_blank">Article 2</a></td>
-		</tr>
-	        <tr>
-	<td><a href="/article/3" target="_blank">Article 3</a></td>
-		</tr>
-	</table>
+          <h1>Articles</h1>
+          <table border="1">
+                  {% for i in range(0,data,1) %}
+                  <tr>
+                   <td><a href="/article/{{i+1}}" target="_blank">Article {{i+1}}</a></td>
+                  </tr>
+                  {%endfor%}
+        </table>
 {% endblock %}

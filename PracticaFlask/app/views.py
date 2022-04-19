@@ -10,7 +10,8 @@ def about():
     return render_template("about.html")
 @app.route('/articles')
 def articles():
-    return render_template("articles.html")
+    art=len(d.Articles())
+    return render_template("articles.html",data=art)
 @app.route('/article/<int:id>')
 def getArticle(id):
     articles=d.Articles()
@@ -19,4 +20,3 @@ def getArticle(id):
             art=data
             return render_template("article.html",data=art)
     return render_template("article.html")
-

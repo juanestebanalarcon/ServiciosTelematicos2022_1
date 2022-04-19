@@ -34,3 +34,10 @@ Allow From all
 </Directory>
 </VirtualHost>
 ```
+
+- Para levantar la API:
+
+```bash
+python3 -m flask run --host=0.0.0.0
+export FLASK_APP=run.py
+```

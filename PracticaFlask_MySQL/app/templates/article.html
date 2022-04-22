@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}Article{% endblock %}
+{% block body %}
+	  <h1>Article Info</h1>
+	  <br>
+	  <hr>
+	  <ul>
+	   {% for k,v in data.items()  %}
+	   <li>{{k}} : {{v}}</li>
+	   {%endfor%}
+	  </ul>
+{% endblock %}

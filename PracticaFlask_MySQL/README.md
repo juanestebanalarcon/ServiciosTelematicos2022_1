@@ -38,6 +38,7 @@ sudo pip3 install flask-mysqldb
 sudo systemctl start mysqld
 sudo systemctl status mysqld
 mysql -u root -p <password>
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'Autonoma123*';
 create database prcFlask;
 use prcFlask
 
@@ -70,6 +71,6 @@ Allow From all
 - Para levantar la API:
 
 ```bash
-python3 -m flask run --host=0.0.0.0
 export FLASK_ENV=development
+python3 -m flask run --host=0.0.0.0
 ```

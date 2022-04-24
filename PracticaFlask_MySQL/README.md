@@ -32,7 +32,7 @@ sudo yum install python3-devel
 sudo yum install gcc
 sudo pip3 install flask-mysqldb
 ```
-## Configuraciones necesarias oara MySQL
+## Configuraciones necesarias para MySQL
 
 ```bash
 sudo systemctl start mysqld

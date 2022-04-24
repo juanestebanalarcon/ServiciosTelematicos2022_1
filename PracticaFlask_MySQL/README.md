@@ -31,6 +31,8 @@ sudo yum install mysql-devel
 sudo yum install python3-devel
 sudo yum install gcc
 sudo pip3 install flask-mysqldb
+sudo pip3 install Flask-WTF
+sudo pip3 install passlib
 ```
 ## Configuraciones necesarias para MySQL
 

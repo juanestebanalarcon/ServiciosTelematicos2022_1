@@ -32,7 +32,7 @@ sudo yum install python3-devel
 sudo yum install gcc
 sudo pip3 install flask-mysqldb
 ```
-## Configuraciones necesarias en el archivo httpd.conf
+## Configuraciones necesarias oara MySQL
 
 ```bash
 sudo systemctl start mysqld
@@ -52,6 +52,7 @@ body VARCHAR(30),
 crration_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP);
 
 ```
+## Configuraciones necesarias en el archivo httpd.conf
 
 ```bash
 vim /etc/httpd/conf/httpd.conf

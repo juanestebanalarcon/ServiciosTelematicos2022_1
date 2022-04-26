@@ -60,12 +60,6 @@ def article2():
     return ArticleListResponseSchema().dump({'article_list':arts})
 with app.test_request_context():
     spec.path(view=article2)
-@app.route('/docs/<path:path>')
-def swagger_docs(path=None):
-    if not path or path == 'docs.html':
-        return render_template('docs.html',base_url='/docs')
-    else:
-        return send_from_directory('static',path)
 
 class RegisterForm(Form):
     name = StringField('Name', [validators.Length(min=1, max=50)])

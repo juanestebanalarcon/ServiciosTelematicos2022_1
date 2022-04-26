@@ -52,7 +52,7 @@ TIMESTAMP DEFAULT CURRENT_TIMESTAMP);
 CREATE TABLE articles(id INT(11) AUTO_INCREMENT PRIMARY KEY, 
 title VARCHAR(100),
 body VARCHAR(30),
-crration_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP);
+creation_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP);
 
 ```
 ## Configuraciones necesarias en el archivo httpd.conf

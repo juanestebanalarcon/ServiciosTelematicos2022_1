@@ -217,3 +217,7 @@ def edit_article(id):
 def delete_article(id):
     cur = mysql.connection.cursor()
     cur.execute("DELETE FROM articles WHERE id =%s",(id))
+    mysql.connection.commit()
+    cur.close()
+    flash('The article has successfully deleted!', 'success')
+    return redirect(url_for('dashboard'))

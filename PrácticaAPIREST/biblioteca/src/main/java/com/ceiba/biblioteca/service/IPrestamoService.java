@@ -9,5 +9,5 @@ public interface IPrestamoService {
     public List<Prestamo>findByidentificacionUsuario(String identificacionUsuario);
     public Prestamo prestarLibro(Prestamo prestamo);
     public void eliminar(Long id);
-
+    public void actualizar(Prestamo prestamo);
 }

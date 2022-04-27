@@ -1,0 +1,120 @@
+{
+	"info": {
+		"_postman_id": "133da8c2-e211-41d3-af1b-88b74e36103b",
+		"name": "Prácticas",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "api biblioteca",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "\r\n        {\r\n         \"isbn\": \"A784\",\r\n        \"identificacionUsuario\": \"123A45\",\r\n        \"tipoUsuario\": 1\r\n        }"
+				},
+				"url": {
+					"raw": "http://localhost:8000/prestamo",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"prestamo"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "api biblioteca PUT",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "\r\n        {\r\n         \"isbn\": \"A750\",\r\n        \"identificacionUsuario\": \"123A4567\",\r\n        \"tipoUsuario\": 1\r\n        }"
+				},
+				"url": {
+					"raw": "http://localhost:8000/prestamo/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"prestamo",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "api biblioteca GET",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8000/prestamo/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"prestamo",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "api biblioteca DEL",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8000/prestamo/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"prestamo",
+						"1"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

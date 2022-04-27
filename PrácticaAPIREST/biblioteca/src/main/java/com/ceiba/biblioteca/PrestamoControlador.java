@@ -1,6 +1,7 @@
 package com.ceiba.biblioteca;
 import com.ceiba.biblioteca.entity.Prestamo;
 import com.ceiba.biblioteca.service.IPrestamoService;
+import com.ceiba.biblioteca.service.PrestamoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -43,6 +44,39 @@ public class PrestamoControlador {
         return new ResponseEntity(jsonResponse,HttpStatus.OK);
     }
 
+@PutMapping("/{Id}")
+public ResponseEntity<Prestamo>Delete(@PathVariable Long Id, @RequestBody Prestamo prestamo){
+    Map<String,Object>jsonResponse = new HashMap<String,Object>();
+    Optional<Prestamo>result = prestamoService.buscarPorId(Id);
+    if(result.isEmpty()){
+        jsonResponse.put("Error","Id not found");
+        return new ResponseEntity(jsonResponse,HttpStatus.NOT_FOUND);
+    }
+    Prestamo prestamoExiste = prestamoService.buscarPorId(Id).get();
+    prestamoExiste.setIsbn(prestamo.getIsbn());
+    prestamoExiste.setIdentificacionUsuario(prestamo.getIdentificacionUsuario());
+    prestamoExiste.setTipoUsuario(prestamo.getTipoUsuario());
+    prestamoService.actualizar(prestamoExiste);
+    jsonResponse.put("id",prestamoExiste.getId());
+    jsonResponse.put("isbn",prestamoExiste.getIsbn());
+    jsonResponse.put("identificacionUsuario",prestamoExiste.getIdentificacionUsuario());
+    jsonResponse.put("tipoUsuario",prestamoExiste.getTipoUsuario());
+    return new ResponseEntity(jsonResponse,HttpStatus.OK);
+}
+
+@DeleteMapping("/{Id}")
+public ResponseEntity<Prestamo>Delete(@PathVariable Long Id){
+    DateTimeFormatter formato = DateTimeFormatter.ofPattern("dd/MM/yyyy");
+    Map<String,Object>jsonResponse = new HashMap<String,Object>();
+    Optional<Prestamo>result = prestamoService.buscarPorId(Id);
+    if(result.isEmpty()){
+        jsonResponse.put("Error","Id not found");
+        return new ResponseEntity(jsonResponse,HttpStatus.NOT_FOUND);
+    }
+    prestamoService.eliminar(Id);
+    jsonResponse.put("Message","Record successfully deleted!");
+    return new ResponseEntity(jsonResponse,HttpStatus.OK);
+}
     @PostMapping
     public ResponseEntity<Prestamo> prestarLibro(@RequestBody Prestamo prestamo) {
         LocalDate fechaPrestamo = LocalDate.now();

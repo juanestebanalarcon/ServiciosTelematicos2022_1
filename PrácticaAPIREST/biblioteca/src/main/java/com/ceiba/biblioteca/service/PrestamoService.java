@@ -37,4 +37,6 @@ public class PrestamoService implements IPrestamoService {
     public void eliminar(Long id) {
         this.repository.deleteById(id);
     }
+    @Override
+    public void actualizar(Prestamo prestamo){this.repository.save(prestamo);}
 }

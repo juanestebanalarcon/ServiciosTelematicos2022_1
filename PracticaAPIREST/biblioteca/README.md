@@ -74,14 +74,3 @@ Crear una API tipo REST la cual permita llevar a cabo las siguientes funcionalid
 1. La base de datos debe ser en memoria, en el archivo application.properties ya se encuentra la configuración la cual está soportada por el motor H2, si necesita modificar estos archivos o algo de la conexión asegúrese de que sea una base de datos en memoria.
     1. Si necesita ejecutar sentencias DDL(crear tablas, modificar tablas...) antes de que la aplicación se ejecute, debe crear un archivo llamado _schema.sql_ en la carpeta _src/main/resources_ y spring automáticamente lo ejecutará
 
-## Conceptos a evaluar
-1. **Cumpliento de los requerimientos**: para esto hay 6 pruebas automatizadas en la clase PrestamoTests ubicada en el paquete src/test/java, las cuales son las encargadas de validar que usted cumpla con cada uno de los requerimientos. Estas pruebas se encuentran fallando y su objetivo es hacerlas funcionar correctamente.  
-2. **Código limpio**: valoramos que su código sea mantenible y con principios de código limpio.  
-3. **Arquitectura**: valoramos que su arquitectura propuesta demuestre una correcta separación de responsabilidades.
-   1. Te recomendamos hacer uso del principio de responsabilidad única
-   2. Te recomendamos usar un patrón de arquitectura, como arquitectura hexagonal, arquitectura limpia o MVC.
-   3. Trata de no poner la lógica de negocio en los controladores, separa tu logica de acuerdo a las restricciones del patrón de arquitectura seleccionado.
-4. **Pruebas unitarias y de integración (deseable)**: valoramos si logra construir pruebas unitarias y de integración a su lógica de negocio.
-5. **Si el sistema identifica que la prueba no ha sido desarrollada por usted inmediatamente se cancela el proceso de selección**
-           
-

@@ -9,7 +9,8 @@ debe redirigir las peticiones al servicio.
 - Compruebe el funcionamiento desde el navegador del anfitrión y del SmartPhone.
 
 ![Estructura](./Estructura.png)
-2. [1.0 Puntos (Funcionamiento + Sustentación)]] APROVISIONAMIENTO. Utilice los servicios de
+
+- 2. [1.0 Puntos (Funcionamiento + Sustentación)]] APROVISIONAMIENTO. Utilice los servicios de
 aprovisionamiento que provee Vagrant usando Shell para que los servicios del punto anterior (Firewall +
 Streama) queden aprovisionados de manera automática.
 

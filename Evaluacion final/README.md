@@ -7,4 +7,4 @@ servidor Streama deberán ser realizadas al firewall y no directamente al servic
 debe redirigir las peticiones al servicio.
 
 - Compruebe el funcionamiento desde el navegador del anfitrión y del SmartPhone.
-[Estructura](´Estructura.png')
+![Estructura](´Estructura.png')

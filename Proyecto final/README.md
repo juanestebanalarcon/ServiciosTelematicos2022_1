@@ -137,9 +137,9 @@ service httpd restart
      - Agregamos sus configuraciones:
      ![thread2](thread2.png)
 - Agregamos un sampler de tipo HttpRequest:
-[HttpRequest](sampler1.png)
+![HttpRequest](sampler1.png)
 - Ahora debemos agregar la vista de resultados, que en este caso sería un Listener de tipo ViewResultsTree
-[ViewResultsTree](listener.png)
+![ViewResultsTree](listener.png)
 
 ## Presentación del proyecto:
 Adjunto en el repo.

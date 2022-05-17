@@ -114,5 +114,32 @@ Presionamos ESC
 :wq
 service httpd restart
 ```
+## Configuración JMeter:
+
+- Nota: Es necesario tener instalado el JDK en su versión 8 o posterior.
+
+1. Descargamos el .zip de la siguiente dirección: https://dlcdn.apache.org//jmeter/binaries/apache-jmeter-5.4.3.zip
+2. Copiamos el .zip a la raíz de nuestro disco local C o D.
+3. Creamos una nueva carpeta llamada "JMeter"
+4. Copiamos y descomprimimos el archivo .zip.
+5. Vamos a la ruta: \JMeter\apache-jmeter-5.4.3\apache-jmeter-5.4.3\bin
+6. Ejecutamos el archivo jmeter.bat
+
+### Configuración de las pruebas:
+
+- Damos un nombre al ambiente de prueba:
+
+![jmeter1](jmeter1.png)
+
+- Agregamos un grupo de hilos, aquí es donde vamos a configurar el número de usuarios, la intensidad y el nombre para esta configuración:
+![ThreadGroup](ThreadGroup.png)
+
+     - Agregamos sus configuraciones:
+     ![thread2](thread2.png)
+- Agregamos un sampler de tipo HttpRequest:
+[HttpRequest](sampler1.png)
+- Ahora debemos agregar la vista de resultados, que en este caso sería un Listener de tipo ViewResultsTree
+[ViewResultsTree](listener.png)
+
 ## Presentación del proyecto:
 Adjunto en el repo.

@@ -141,5 +141,24 @@ service httpd restart
 - Ahora debemos agregar la vista de resultados, que en este caso sería un Listener de tipo ViewResultsTree
 ![ViewResultsTree](listener.png)
 
+### HTML Report
+
+- Para generar todo un reporte de las pruebas realizadas en JMeter debemos agregar lo siguiente:
+    * Listener: Simple Data Writer
+    * Guardar como csv el listener ViewResultsTree
+    * Tools > Generate HTML Report >
+        - Results file (csv): Cargamos el csv que exportamos
+        - User properties file: Está en la ruta de instalación del JMeter.
+        - Output directory: Directorio donde deseamos almacenar el reporte.
+    
+    ![HTML_Report](HTMLReport.png)
+
+- Obteniendo como resultado la siguiente información:
+
+![test1](test1.png)
+----------------------------------------------------------------
+![test2](test2.png)
+
+
 ## Presentación del proyecto:
 Adjunto en el repo.

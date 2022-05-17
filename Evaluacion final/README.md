@@ -15,6 +15,7 @@ aprovisionamiento que provee Vagrant usando Shell para que los servicios del pun
 Streama) queden aprovisionados de manera automática.
 
 - Vagrantfile utilizado:
+
  ```bash
  Vagrant.configure("2") do |config|
 if Vagrant.has_plugin?("vagrant-vbguest")
